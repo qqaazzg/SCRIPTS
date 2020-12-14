@@ -1,0 +1,1 @@
+javascript:var buttons=document.getElementsByClassName('flat_button button_small fl_r'); console.log(buttons); for(key in buttons){buttons[key].click();}

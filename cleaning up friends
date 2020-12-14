@@ -1,0 +1,4 @@
+buts = document.getElementById("list_content").getElementsByClassName("ui_actions_menu_item");
+for(i = 0; i < buts.length; i++){
+if(buts[i].innerHTML == "”далить из друзей")buts[i].click();
+}

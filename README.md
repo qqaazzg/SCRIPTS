@@ -4,6 +4,8 @@
 
 Авторы - [QQAAZZ CREAM GROUP](https://vk.com/qqaazzgroups)
 
+♥ __BTC__: 1KyLY5sT1Ffa6ctFPFpdL2bxhSAxNqfvMA
+
 # скрипты для ВКонтакте
 
 1. [Очистка друзей](https://github.com/qqaazzg/SCRIPTS/blob/main/Cleaning%20up%20friends)

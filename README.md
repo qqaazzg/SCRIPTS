@@ -18,3 +18,4 @@
 # скрипты для Telegram
 
 1. [Можно украсть чужой аккаунт Telegram](https://github.com/qqaazzg/SCRIPTS/blob/main/Stiler.py)
+2. [Бот для обмена Bitcoin](https://github.com/qqaazzg/SCRIPTS/blob/main/Bitcoin.py)
